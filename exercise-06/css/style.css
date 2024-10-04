@@ -4,11 +4,14 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* STEP 12 */ {
+/* STEP 12 */ 
+a:hover {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
-/* STEP 7B */ {
+/* STEP 7B */ 
+p,
+li {
   color: rgb(69,105,159); /* blue */
 }
 
@@ -18,16 +21,19 @@ li {
   line-height: 1.5;
 }
 
-/* STEP 10A */ {
+/* STEP 10A */ 
+ul > li {
   list-style-type: square;
 }
 
-/* STEP 11A*/ {
+/* STEP 11A*/ 
+abbr[title] {
   text-decoration-color: rgb(69,105,159); /* blue */
   text-decoration-style: wavy;
 }
 
-/* STEP 11B */ {
+/* STEP 11B */ 
+abbr[title]{
   font-style: italic;
   color: rgb(69,105,159); /* blue */
 }
@@ -42,7 +48,8 @@ section {
   background-color: rgba(231,209,75,0.15); /* lt yellow */
 }
 
-/* STEP 10B */ {
+/* STEP 10B */ 
+ul > li {
   font-style: italic;
 }
 
@@ -69,7 +76,8 @@ main section {
   background-color: rgb(231,209,75); /* yellow */
 }
 
-/* STEP 8 */ {
+/* STEP 8 */ 
+#geography aside {
   border: 1px dashed rgb(69,105,159);
   padding-left: 16px;
 }
@@ -83,7 +91,8 @@ main section {
   font-weight: bold;
 }
 
-/* STEP 13 */ {
+/* STEP 13 */ 
+.first::first-letter {
   font-size: 22px;
 }
 
