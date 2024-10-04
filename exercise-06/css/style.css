@@ -33,7 +33,8 @@ body {
 
 /* (Structural) Type Selectors */
 
-/* STEP 3B */ {
+/* STEP 3B */ 
+body {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgba(231,209,75,0.15); /* lt yellow */
