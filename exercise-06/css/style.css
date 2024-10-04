@@ -83,7 +83,8 @@ section {
   font-size: 22px;
 }
 
-/* STEP 5B */ {
+/* STEP 5B */ 
+.highlight {
   font-weight: bold;
   color: rgb(69,105,159); /* blue */
 }
