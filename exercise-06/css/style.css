@@ -34,7 +34,7 @@ body {
 /* (Structural) Type Selectors */
 
 /* STEP 3B */ 
-body {
+section {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgba(231,209,75,0.15); /* lt yellow */
@@ -50,7 +50,8 @@ body {
 
 
 /* id Selectors */
-/* STEP 4A */ {
+/* STEP 4A */ 
+#introduction {
   background-color: rgba(69,105,159,0.15); /* lt blue */
   border: 1px dashed rgb(69,105,159); /* blue */
 }
@@ -59,7 +60,8 @@ body {
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 4B */ {
+/* STEP 4B */ 
+#return-to-top {
   background-color: rgb(231,209,75); /* yellow */
 }
 
@@ -72,7 +74,8 @@ body {
 
 /* class Selectors */
 
-/* STEP 5A */ {
+/* STEP 5A */ 
+.first {
   font-weight: bold;
 }
 
