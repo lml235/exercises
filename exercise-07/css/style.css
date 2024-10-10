@@ -1,5 +1,15 @@
 /* stylesheet for constitution.html */
 
 body {
-  color:red;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 18 px;
+  color: #222;
+  line-height: 1.5 px;
 }
+
+footer p {
+  font-size: 14 px;
+  color: #666;
+}
+
+
