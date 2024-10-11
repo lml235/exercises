@@ -7,8 +7,10 @@ body {
   line-height: 1.5 px;
 }
 
-footer p {
-  color: #785;
+footer > p {
+  margin-bottom: 14 px;
+  padding: 14 px;
+  color: #666;
 }
 
 
