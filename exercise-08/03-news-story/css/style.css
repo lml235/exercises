@@ -2,7 +2,8 @@
 
 body { 
   max-width: 600px;
-  min-width: 400px;
-  padding-left: 350px;
+  min-width: 100px;
+  margin-left: 350px;
+  margin-right: 350px;
   /* add your styles to center the block of content! */
 }

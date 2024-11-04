@@ -1,1 +1,5 @@
 /* style sheet for polaroid.html */
+main {
+  border: 1px solid #222;
+  
+}
